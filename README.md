@@ -1,4 +1,4 @@
-# IssueTrkrApplication
+# IssueTrkrApplication based on Sebastian Eschweiler's https://github.com/seeschweiler/mean-stack-angular-6-part-4 tutorial.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.7.
 
